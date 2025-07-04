@@ -4,3 +4,4 @@
 ...
 [Pathos] Confidence marker reported. Focus state achieved.
 pip install mkdocstrings[python]
+pip install mdformat mdformat-mkdocs
