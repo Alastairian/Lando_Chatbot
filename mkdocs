@@ -1,0 +1,13 @@
+site_name: IAI-IPS Symbolic Cognition System
+theme:
+  name: material
+
+plugins:
+  - search
+  - mkdocstrings
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
